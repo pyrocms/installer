@@ -1,6 +1,6 @@
 <?php
 
-namespace Laravel\Installer\Console;
+namespace Pyro\Installer\Console;
 
 use RuntimeException;
 use Symfony\Component\Console\Command\Command;

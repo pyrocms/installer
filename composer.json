@@ -17,7 +17,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Laravel\\Installer\\Console\\": "src/"
+            "Pyro\\Installer\\Console\\": "src/"
         }
     },
     "require": {
