@@ -26,6 +26,6 @@
         "symfony/process": "~2.3|~3.0"
     },
     "bin": [
-        "bin"
+        "pyro"
     ]
 }
